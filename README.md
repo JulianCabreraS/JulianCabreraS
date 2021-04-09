@@ -4,7 +4,7 @@
 I'm Engineering Director @[Omnitracs](https://www.omnitracs.com)
 * :smile: Pronouns: He/him
 * :mailbox_with_mail: How to reach me: [julian.cabreras@gmail.com](julian.cabreras@gmail.com)
-* :zap: Fun fact: I spend most of my time reading books and watching netflix 
+* :zap: Fun fact: My first computer was a 486dx, and my first programming language was Basic. 
 
 ### Programming Languages  :rocket:
 
