@@ -6,13 +6,13 @@ I'm Engineering Director @[Omnitracs](https://www.omnitracs.com)
 * :mailbox_with_mail: How to reach me: [julian.cabreras@gmail.com](julian.cabreras@gmail.com)
 * :zap: Fun fact: I spend most of my time reading books and watching netflix 
 
-### Programming languages
+### Programming Languages  :rocket:
 
 <img src="https://github.com/JulianCabreraS/JulianCabreraS/blob/main/Images/Languages/java.png" width="75">&nbsp;
-<img src="https://github.com/JulianCabreraS/JulianCabreraS/blob/main/Images/Languages/Kotlin.jpg" width="75px">&nbsp;
-<img src="https://github.com/JulianCabreraS/JulianCabreraS/blob/main/Images/Languages/1200px-Typescript_logo_2020.svg.png" width="75px">&nbsp;
+<img src="https://github.com/JulianCabreraS/JulianCabreraS/blob/main/Images/Languages/Kotlin.jpg" width="50px">&nbsp;
+<img src="https://github.com/JulianCabreraS/JulianCabreraS/blob/main/Images/Languages/1200px-Typescript_logo_2020.svg.png" width="50px">&nbsp;
 
-### Tools
+### Tools :fire: 
 
 <img src="https://github.com/JulianCabreraS/JulianCabreraS/blob/main/Images/Tools/IntelliJ_IDEA_Icon.svg.png" width="50">&nbsp;
 <img src="https://github.com/JulianCabreraS/JulianCabreraS/blob/main/Images/Tools/AndroidStudio.png" width="50">&nbsp;
