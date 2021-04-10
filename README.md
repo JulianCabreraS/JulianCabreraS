@@ -8,15 +8,15 @@ I'm Engineering Director @[Omnitracs](https://www.omnitracs.com)
 
 ### Programming Languages  :rocket:
 
-<img src="https://github.com/JulianCabreraS/JulianCabreraS/blob/main/Images/Languages/java.png" width="75">&nbsp;
-<img src="https://github.com/JulianCabreraS/JulianCabreraS/blob/main/Images/Languages/Kotlin.jpg" width="50px">&nbsp;
-<img src="https://github.com/JulianCabreraS/JulianCabreraS/blob/main/Images/Languages/1200px-Typescript_logo_2020.svg.png" width="50px">&nbsp;
+<img src="Images/Languages/java.png" width="75">&nbsp;
+<img src="Images/Languages/Kotlin.jpg" width="50px">&nbsp;
+<img src="Images/Languages/1200px-Typescript_logo_2020.svg.png" width="50px">&nbsp;
 
 ### Tools :fire: 
 
-<img src="https://github.com/JulianCabreraS/JulianCabreraS/blob/main/Images/Tools/IntelliJ_IDEA_Icon.svg.png" width="50">&nbsp;
-<img src="https://github.com/JulianCabreraS/JulianCabreraS/blob/main/Images/Tools/AndroidStudio.png" width="50">&nbsp;
-<img src="https://github.com/JulianCabreraS/JulianCabreraS/blob/main/Images/Tools/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="50">
+<img src="Images/Tools/IntelliJ_IDEA_Icon.svg.png" width="50">&nbsp;
+<img src="Images/Tools/AndroidStudio.png" width="50">&nbsp;
+<img src="Images/Tools/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="50">
 
 :trophy: **My Github Stats:**
 
