@@ -28,4 +28,3 @@ I'm Engineering Director @[Omnitracs](https://www.omnitracs.com)
   <img align="left" alt="Julian Cabrera Linkedin" width="21px" src="https://github.com/JulianCabreraS/JulianCabreraS/blob/main/Images/networks/linkedin.svg" />
 </a>
 
-
